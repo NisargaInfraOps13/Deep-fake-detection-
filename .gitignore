@@ -1,0 +1,6 @@
+# Ignore model files
+*.pt
+*.dat
+
+# Ignore virtual environment
+venv/
